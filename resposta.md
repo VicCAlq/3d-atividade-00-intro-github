@@ -9,3 +9,5 @@ R- bakugan é ruim
 
 3. Qual palavra em Javascript é usada para criar uma função?
 R- function  
+
+Prof. Victor mexeu aqui.
